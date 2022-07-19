@@ -1,0 +1,12 @@
+Laptop15 1200
+Laptop12 4220
+Laptop11 2200
+Laptop1 5300
+Laptop2 3000
+Laptop7 6010
+Laptop4 1500
+Laptop3 2120
+Laptop6 3240
+Laptop9 7000
+Laptop10 4000
+Laptop5 1700

@@ -1,0 +1,147 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    margin: auto;
+    background-color: #e1dee4;
+}
+.blue {
+    color: rgba(4, 47, 128, 0.993);
+}
+.project{
+        padding-top:100px;
+        padding-bottom:100px ;
+        text-align: center;
+    }
+.project-heading{
+        font-size: 40px;
+        text-transform:capitalize;
+        color: black;
+        font-family: cursive; 
+        background-color: #deb9f7;
+    }
+    .project-items{
+        padding-top: 70px ;
+    }
+    .project-item{
+        float: left;
+        padding-bottom:20px;
+        padding-top:20px;
+        width: 33.33%;
+        border: solid  #fdf2f2;
+    }
+    .project-title{
+        padding-bottom:20px;
+        text-transform: capitalize;
+        font-size: 30px;
+        font-family:  sans-serif;
+    }
+ .project-description{
+    font-size: 20px;
+    color: rgb(41, 40, 40);
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+    font-family:Cinzel,serif;
+}
+.links a {
+    color: black;
+   background: #deb9f7;
+    display: inline-block;
+    padding: 10px 22px;
+    text-decoration: none;
+}
+.links {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px; 
+
+}
+.images img {
+    width: 500px;
+    margin: auto;
+    padding-top: 70px;
+}
+.images {
+    margin: 40px 0;
+    text-align: center;
+}
+img.image1 {
+    margin: auto;
+    width: 400px;
+}
+img.image2 {
+    margin: auto;
+    width: 400px;
+}
+.test {
+    background-image: url(welcome.jpg);
+    height: 100vh;
+    background: size 11px;;
+     text-align: center;
+}
+.table {
+    background: #111;
+    color: #ddd;
+    display: inline-block;
+}
+.table div {
+    line-height: 30px;
+    border-bottom: 1px solid #555;
+}
+.table span {
+    width: 180px;
+    display: inline-block;
+    text-align: center;
+}
+.table .title {
+    border-bottom: 3px double #777;
+}
+.error-msg {
+    padding: 30px 0;
+    font-size: 25px;
+    color: red;
+}
+.members {
+    margin-bottom: 30px;
+    border-top: 1px solid #555;
+    border-bottom: 1px solid #555;
+    padding: 15px 0;
+}
+.members span {
+    margin: 0 9px;
+    font-weight: bold;
+}
+.member {
+    background: #ddd;
+    margin: 15px 0;
+    padding: 12px 0;
+}
+body.error {
+    text-align: center;
+}
+.client-info {
+    display: inline-block;
+    border: 1px solid #555;
+    padding: 20px;
+}
+.members-main {
+    overflow: hidden;
+}
+.member-main {
+    width: 48%;
+    float: left;
+    border: 1px solid #555;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 1100px;
+    margin: 0 auto;
+    border: 1px solid rgb(133, 18, 161);
+    padding: 30px;
+}
